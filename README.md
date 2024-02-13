@@ -1,3 +1,3 @@
-Tool Name: Amazon Clone
-Creator: Vaibhav Trivedi
-Built using: HTML,CSS
+Tool Name: Amazon Clone<br/>
+Creator: Vaibhav Trivedi<br/>
+Built using: HTML,CSS<br/>
